@@ -54,9 +54,7 @@ const Dashboard = () => {
                     </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="1">
-                    <Card.Body>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blahblah blah blah blah
-                blah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah blahblah
-                blah blahblah blahblah blahblah blahblah blahblah blahblah blah</Card.Body>
+                    <Card.Body>Here is placeholder for Project 2</Card.Body>
                 </Accordion.Collapse>
             </Card>
         </Accordion>
